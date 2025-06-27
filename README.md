@@ -33,23 +33,11 @@ A Java-based desktop application for managing a food ordering system, developed 
 4. Clean and build the project.
 5. Run the project.
 
-## 📁 Project Structure
-
-FoodOrderingSystem/
-│
-├── build.xml                # Ant build script
-├── manifest.mf              # JAR manifest
-├── build/                   # Compiled classes
-├── src/                     # Java source code (likely inside)
-├── dist/                    # JAR output (after build)
-└── gui/                     # GUI classes (e.g., Dashboard)
-
-
 ## 📌 Notes
 
 1. This application is for desktop use only.
 2. Make sure Java is properly installed and added to your system’s PATH.
 3. For UI customization or logic changes, edit files inside the src/gui directory.
 
-📃 License
-This project is for educational/demo purposes only. Licensing terms can be added as needed.
+## 📃 License
+This is a semester-end project and currently not under a specific license.
